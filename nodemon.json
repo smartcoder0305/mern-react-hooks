@@ -1,0 +1,10 @@
+{
+  "env": {
+    "GOOGLE_API_KEY": "AIzaSyBQl3FEQunaVjZe9JZvyUgN219yXTuhM3k",
+    "JWT_KEY": "encrypted_by_jwt",
+    "MAILGUN_API_KEY": "7fc42712165aea3945a4cfc1731d7d03-18e06deb-be9acb90",
+    "MAILGUN_PUBLIC_API_KEY": "02588dd835507152e6348727babb21d0",
+    "MAILGUN_DOMAIN": "sandbox629dd80b4cda4ce1b1f5051dffc35dfc.mailgun.org",
+    "BASE_URL": "http://localhost:3000"
+  }
+}
